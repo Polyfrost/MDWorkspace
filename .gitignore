@@ -11,4 +11,10 @@ null*
 
 # Add below lines to exclude OS settings and caches
 .trash/
+.trash
+.Trashes
 .DS_Store
+.DS_Store?
+ehthumbs.db
+Thumbs.db
+.obsidian
