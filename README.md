@@ -7,11 +7,11 @@ The use of this repository is optional. Some may prefer to use other markdown ed
 3. Launch/open Obsidian.
 4. Select **Open folder as vault** in the initial window, as shown below.
 
-![[obsidian-initial-dialog-box.png]]
+![obsidian-intial-dialog-box|700](https://github.com/Polyfrost/MDWorkspace/blob/main/global-assets/readme/obsidian-initial-dialog-box.png?raw=true)
 
 6. Select this repository's folder (**MDWorkspace**).
 7. You're in!
 ### Using Obsidian
 A complete list of tools for using Obsidian can be found on their [help portal](https://help.obsidian.md/). However, most of the concepts explained in the help portal are too advanced for use in simple markdown editing. In this case, it is probably only beneficial to read through the concepts in the **How to** section.
 
-![[obsidian-help-howto.png|300]]
+![obsidian-help-howto|200](https://github.com/Polyfrost/MDWorkspace/blob/main/global-assets/readme/obsidian-help-howto.png?raw=true)
