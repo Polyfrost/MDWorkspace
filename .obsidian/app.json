@@ -1,5 +1,13 @@
 {
   "legacyEditor": false,
   "livePreview": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showFrontmatter": false,
+  "showLineNumber": false,
+  "showIndentGuide": true,
+  "lineWrap": true,
+  "spellcheck": false,
+  "autoPairBrackets": true
 }

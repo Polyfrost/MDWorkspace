@@ -12,9 +12,30 @@ The use of this repository is optional. Some may prefer to use other markdown ed
 ![obsidian-intial-dialog-box|700](https://github.com/Polyfrost/MDWorkspace/blob/main/global-assets/readme/obsidian-initial-dialog-box.png?raw=true)
 
 6. Select this repository's folder (**MDWorkspace**).
-7. You're in!
+7. When asked about Live Preview, it is highly recommended you enable it. It can be disabled later if you wish by clicking the **Live Preview** text at the bottom-right of the window (left of the word count).
+8. You're in!
 
-### Using Obsidian
-A complete list of tools for using Obsidian can be found on their [help portal](https://help.obsidian.md/). However, most of the concepts explained in the help portal are too advanced for use in simple markdown editing. In this case, it is probably only beneficial to read through the concepts in the **How to** section.
+### Using Obsidian's Features
+A complete list of Obsidian's features can be found on the [Obsidian help portal](https://help.obsidian.md/). However, most of the concepts explained in the help portal are too advanced for use in standard markdown editing. In this case, it is probably only beneficial to read through the concepts in the **How to** section, especially [Format your notes - Obsidian Help](https://help.obsidian.md/How+to/Format+your+notes).
 
-![obsidian-help-howto](https://github.com/Polyfrost/MDWorkspace/blob/main/global-assets/readme/obsidian-help-howto.png?raw=false)
+## Polyfrost's Markdown Practices
+When creating **any** markdown file for Polyfrost, you **must** follow a set of simple guidelines.
+
+1. **Heading 1.** There must be exactly one first-level heading, first thing in the file. This should act as the title of the markdown file. It may or may not be a word-for-word copy of the file name. 
+2. **Title capitalization for headers.** All headers, at all levels, must use title capitalization.
+3. **Line breaks after paragraphs.** There **must** be a single line break after each body paragraph. However, there should only be a line break after the **last** list item within a bulleted, numbered, or another type of list. No line breaks after headers.
+4. **Emphasised text (bold and italic) should use asterisks, not underscores.** Markdown allows for both. However, the latter may be confused with underlines.
+	- Correct: `` **bold text** | *italic text* | ***italic and bold text*** ``
+	- Wrong:  ` __bold text__ | _italic text_ | ___italic and bold text___ `
+
+## Work in progress
+
+The content below this is a work in progress.
+
+Obsidian includes extra features that aren't included in standard markdown files. These may not be accessible when viewing on the intended platform, such as GitHub, a place where most of these markdown files will end up. (guidance will be listed soon)
+
+TODO:
+- Dealing with images and other markdown assets
+- Table practices
+- Flowcharts/diagrams
+- Changing Obsidian settings
